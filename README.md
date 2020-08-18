@@ -1,5 +1,5 @@
 # Welcome to Rails
-
+[![DepShield Badge](https://depshield.sonatype.org/badges/sealmindset/rails/depshield.svg)](https://depshield.github.io)
 ## What's Rails?
 
 Rails is a web-application framework that includes everything needed to
