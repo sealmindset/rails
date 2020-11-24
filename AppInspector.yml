@@ -1,2 +1,7 @@
 - name: AppInspector
-  uses: microsoft/ApplicationInspector-Action@v1
+- uses: actions/checkout@v2
+- uses: microsoft/ApplicationInspector-Action@v1
+- uses: actions/upload-artifact@v2
+    with:
+        name: AppInspectorResults
+        path: AppInspectorResults.json
